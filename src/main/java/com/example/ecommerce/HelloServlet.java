@@ -26,3 +26,7 @@ public class HelloServlet extends HttpServlet {
     public void destroy() {
     }
 }
+
+class Java{
+    private final String st  = "9/28/2025 nguyen huu duy";
+}
