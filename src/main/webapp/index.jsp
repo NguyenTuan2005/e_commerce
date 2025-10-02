@@ -8,5 +8,11 @@
 <h1><%= "Hello World!" %></h1>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
+
+<%
+    String hello = "Welcome to web programming" ;
+//    out.println("Hello World") ;
+%>
+<%= hello%>
 </body>
 </html>
